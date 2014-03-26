@@ -10,6 +10,12 @@ Isto retorna um pacote se a quantidade informada na inicializacao
 nao foi alcancada, caso contrario, None eh retornado.
 Use a funcao abaixo para verificar se ainda eh possivel gerar pacotes:
     will_generate = generator.has_next()
+Acesse os atributos do pacote da seguinte maneira:
+    src_ip = packet.src_ip
+    dest_ip = packet.dest_ip
+    dest_ip = packet.dest_ip
+    pkt_type = packet.pkt_type
+    content = packet.content
 """
 from random import randrange
 from random import randint
