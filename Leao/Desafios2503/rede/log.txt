@@ -1,0 +1,10 @@
+Pacote UDP enviado para UDP1
+Pacote HTTP enviado para http1
+Pacote UDP enviado para UDP2
+Pacote TCP descartado
+Pacote TCP descartado
+Pacote TCP descartado
+Pacote TCP descartado
+Pacote TCP descartado
+Pacote UDP enviado para UDP1
+Pacote HTTP enviado para http2
